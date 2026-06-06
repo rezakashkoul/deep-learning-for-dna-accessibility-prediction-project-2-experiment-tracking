@@ -15,6 +15,7 @@ In Project 2, the same core model and dataset pipeline were reused and extended 
 
 ## Project Structure
 
+```text
 project2/
 ├── final_code/
 │   ├── dataset.py
@@ -34,6 +35,7 @@ project2/
 ├── project_selected/
 ├── figures/
 └── final_dataset/
+```
 
 ## Dataset Summary
 
