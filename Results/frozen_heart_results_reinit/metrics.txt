@@ -1,0 +1,19 @@
+Frozen Backbone Heart Transfer Learning with Reinitialized Classifier
+best_model_path_loaded=grid_results/grid_run_2_lr_0.001_bs_16_ks_11/best_model.pth
+best_frozen_model_path=frozen_heart_results_reinit/best_frozen_heart_model.pth
+backbone_frozen=conv1,conv2,conv3
+classifier_reinitialized=fc1,fc2
+only_classifier_updated=True
+batch_size=16
+learning_rate=0.001
+epochs=5
+test_loss=0.5765
+test_acc=0.6935
+accuracy=0.6935
+precision=0.6901
+recall=0.7070
+f1=0.6984
+confusion_matrix=
+[[21563 10151]
+ [ 9366 22601]]
+tensorboard_log_dir=runs_frozen_heart/frozen_heart_reinit_20260430_095452

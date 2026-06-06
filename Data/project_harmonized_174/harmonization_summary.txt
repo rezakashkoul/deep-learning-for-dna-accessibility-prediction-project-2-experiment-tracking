@@ -1,0 +1,35 @@
+=== brain/ENCFF068WQO ===
+POS src: ENCFF068WQO_positive_X187.txt
+POS total=65598 kept=65598 too_short=0
+NEG src: ENCFF068WQO_negative_X187.txt
+NEG total=65564 kept=65564 too_short=0
+
+=== brain/ENCFF109HOA ===
+POS src: ENCFF109HOA_positive_X180.txt
+POS total=105679 kept=105679 too_short=0
+NEG src: ENCFF109HOA_negative_X180.txt
+NEG total=105628 kept=105628 too_short=0
+
+=== brain/ENCFF263JBT ===
+POS src: ENCFF263JBT_positive_X201.txt
+POS total=160640 kept=160640 too_short=0
+NEG src: ENCFF263JBT_negative_X201.txt
+NEG total=160600 kept=160600 too_short=0
+
+=== brain/ENCFF738LML ===
+POS src: ENCFF738LML_positive_X180.txt
+POS total=71455 kept=71455 too_short=0
+NEG src: ENCFF738LML_negative_X180.txt
+NEG total=71403 kept=71403 too_short=0
+
+=== brain/ENCFF750GSJ ===
+POS src: ENCFF750GSJ_positive_X180.txt
+POS total=57437 kept=57437 too_short=0
+NEG src: ENCFF750GSJ_negative_X180.txt
+NEG total=57392 kept=57392 too_short=0
+
+=== blood/ENCFF458UYZ ===
+POS src: ENCFF458UYZ_positive_X174.txt
+POS total=24295 kept=24295 too_short=0
+NEG src: ENCFF458UYZ_negative_X174.txt
+NEG total=24284 kept=24284 too_short=0

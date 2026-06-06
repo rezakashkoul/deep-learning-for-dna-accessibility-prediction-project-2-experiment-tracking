@@ -1,0 +1,13 @@
+ENCFF068WQO: pos_sampled=5000 neg_sampled=5000 total_added=10000
+ENCFF109HOA: pos_sampled=5000 neg_sampled=5000 total_added=10000
+ENCFF263JBT: pos_sampled=5000 neg_sampled=5000 total_added=10000
+ENCFF738LML: pos_sampled=5000 neg_sampled=5000 total_added=10000
+ENCFF750GSJ: pos_sampled=5000 neg_sampled=5000 total_added=10000
+
+brain_main_25k_25k.csv total_rows=50000
+Expected: 50000 rows total = 25000 positive + 25000 negative
+
+ENCFF458UYZ: blood_pos=24295 blood_neg=24284 total=48579
+
+blood_external_test.csv total_rows=48579
+This file is kept separate for Experiment 5 external testing.

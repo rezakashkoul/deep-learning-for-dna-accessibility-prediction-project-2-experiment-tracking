@@ -1,0 +1,17 @@
+grid_run_7_lr_0.0001_bs_64_ks_5
+kernel_size=5
+learning_rate=0.0001
+batch_size=64
+epochs=10
+use_blood_eval=False
+best_model_path=grid_results/grid_run_7_lr_0.0001_bs_64_ks_5/best_model.pth
+test_loss=0.5066
+test_acc=0.7500
+accuracy=0.7500
+precision=0.7393
+recall=0.7695
+f1=0.7541
+confusion_matrix=
+[[2750 1014]
+ [ 861 2875]]
+tensorboard_log_dir=runs_grid/grid_run_7_lr_0.0001_bs_64_ks_5_lr_0.0001_bs_64_ks_5_20260430_013003
